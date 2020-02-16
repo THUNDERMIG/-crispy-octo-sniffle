@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+    <category>
+        <pattern>What is Feni University</pattern>
+        <template>The Feni University (FU) started its academic activities from May 2013 with due approval by the Government of Bangladesh and University Grants Commission (UGC) under the Private University Act, 2010. As an institution of higher education, its aim is to inculcate and promote the ethical standards and values & norms in the society and flourish as a centre of excellence in higher education in the country. The primary mission of FU is to provide tertiary level of education at a reasonably cheaper rate of cost while upholding the expected academic standard in a range of subjects that are relevant to the current and anticipated social and economic needs of the nation and the globe at large.</template>
+    </category>
+  
+  
+</aiml>
